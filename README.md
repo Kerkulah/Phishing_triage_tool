@@ -25,7 +25,7 @@ This open source tool eliminates the manual overhead of phishing triage by autom
 (5)  Enriches with threat intel : VirusTotal, URLhaus, AbuseIPDB, and Shodan lookups.
 <br />
 <br />
-(6) Outputs case artifacts : structured JSON case file and a Markdown incident ticket, ready to drop into any ticketing system.
+(6) Outputs case artifacts : structured JSON case file and a Markdown incident ticket.
 <br />
 <br />
 
